@@ -1,2 +1,2 @@
 # python-madlib
-Mad lib homework project
+Python Mad lib project
